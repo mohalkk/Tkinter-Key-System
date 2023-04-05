@@ -5,6 +5,9 @@ Simple tk key system for your application
 
 maybe adding rememeber password function
 
+# Requirements
+- Tkinter
+
 # Discord
  - Mohalk#3312
 
